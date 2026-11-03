@@ -3,8 +3,16 @@
 ###
 
 <div align="center">
-  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="150" alt="stats graph" />
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-stats-zkill-rin.vercel.app/api?username=ZkillRin&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-zkill-rin.vercel.app/api/top-langs?username=ZkillRin&layout=compact&card_width=320&langs_count=5&theme=dracula"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 ###
